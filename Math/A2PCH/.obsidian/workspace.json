@@ -176,28 +176,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false
     }
   },
   "active": "2116b2ecac2d2ad3",
   "lastOpenFiles": [
+    "OCR Inbox/IMG_3349.md",
+    "OCR Inbox/IMG_3350.md",
+    "Ch.1 Graphs of Functions/Graphs of Funtions, Linear Equations, and Word Problems.md",
     "Ch.1 Graphs of Functions/D=RT, Mixture Problems, and Quadratic Solving.md",
     "IMG_3387 2.md",
     "OCR Inbox/IMG_3387.md",
-    "OCR Inbox/IMG_3350.md",
-    "OCR Inbox/IMG_3349.md",
     "OCR Inbox/How OCR Inbox works.md",
     "OCR Inbox/IMG_3387 2.heic",
     "OCR Inbox/IMG_3387 1.heic",
-    "Ch.1 Graphs of Functions/Graphs of Funtions, Linear Equations, and Word Problems.md",
     "OCR Inbox/IMG_3387.heic",
     "IMG_3350.md",
     "OCR Inbox/IMG_3350.heic",
