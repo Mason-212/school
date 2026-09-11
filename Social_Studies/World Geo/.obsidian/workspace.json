@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "3f6029ea45f20b43",
+    "type": "split",
+    "children": [
+      {
+        "id": "75ffd0ae623bb563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0acf8f834fffeaec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ad5705ca0e80939",
+    "type": "split",
+    "children": [
+      {
+        "id": "c566f4e5fa702a5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3558c35f9f60f6b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "36dcc1ddbd939443",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ef8ce60a491e8188",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbbda7b53b99904b",
+    "type": "split",
+    "children": [
+      {
+        "id": "18a12d01909223eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc0fe126063cf711",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bfce1b70e4cf68df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d719c8a1d0b04a6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3f27b3e5de96df24",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1b80f68a544b469b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ch. 1 What is Democracy? The origins of Democracy/Ch. 1 Work on problems.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "ghostty-terminal:Open terminal": false
+    }
+  },
+  "active": "0acf8f834fffeaec",
+  "lastOpenFiles": [
+    "OCR Inbox/The Enlightenment.md",
+    "OCR Inbox/IMG_3373 1.md",
+    "OCR Inbox/IMG_3368 1.md",
+    "OCR Inbox/How OCR Inbox works.md",
+    "OCR Inbox/IMG_3374.md",
+    "OCR Inbox/IMG_3374 3.heic",
+    "OCR Inbox/IMG_3373 3.heic",
+    "OCR Inbox/IMG_3368 2.md",
+    "OCR Inbox/IMG_3374 2.heic",
+    "OCR Inbox/IMG_3373 2.heic",
+    "Ch. 1 What is Democracy? The origins of Democracy/Who Rules?.md",
+    "Ch. 1 What is Democracy? The origins of Democracy/Greek Democracy.md",
+    "Ch. 1 What is Democracy? The origins of Democracy/Review Guide.md",
+    "Ch. 1 What is Democracy? The origins of Democracy/Ancient Roots of Democracy.md",
+    "OCR Inbox/IMG_3374 1.heic",
+    "OCR Inbox/IMG_3373 1.heic",
+    "OCR Inbox/IMG_3368.md",
+    "Ch. 1 What is Democracy? The origins of Democracy/Democractic Ideals.md",
+    "OCR Inbox/IMG_3374.heic",
+    "OCR Inbox/IMG_3373.heic",
+    "OCR Inbox/IMG_3368 2.heic",
+    "OCR Inbox/IMG_3368 1.heic",
+    "Ch. 1 What is Democracy? The origins of Democracy/Roman Republicanism.md",
+    "Ch. 1 What is Democracy? The origins of Democracy/Ch. 1 Work on problems.md",
+    "OCR Inbox/IMG_3339.md",
+    "OCR Inbox/Roman Republicanism.md",
+    "Untitled.md",
+    "OCR Inbox/IMG_3330.md",
+    "OCR Inbox/ocr-skill-test.md",
+    "OCR Inbox/ocr-skill-test.png",
+    "Ch. 1 What is Democracy? The origins of Democracy/The Spread of Democracy.md",
+    "Welcome.md",
+    "World Geo week 1-2.md",
+    "What is Democracy?.md",
+    "World Geo week 1-2_images/page-04.png",
+    "World Geo week 1-2_images/page-03.png",
+    "World Geo week 1-2_images/page-02.png",
+    "World Geo week 1-2_images/page-01.png"
+  ]
+}

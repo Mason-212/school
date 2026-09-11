@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "7c13f74312cc66a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b159548890258e95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b948bc5f153f9a35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit 1 Living Systems/Characteristics of Life.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Characteristics of Life"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57ceb36b4592ce0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "772adb15cf0ef6e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "789fb2074b95f7eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0b4fa0c337106e0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2812a2ee1c7ee77b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b73b10361d4225c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d87b9ddc99f5a3cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e97f927915733c09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "caae2eb362b32ebf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f8617a44957fc2ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a3dfd76070bc3ce3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d5ab5e0d90c12912",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "b948bc5f153f9a35",
+  "lastOpenFiles": [
+    "Unit 1 Living Systems/Introduction to Living Earth Work on problems.md",
+    "Unit 1 Living Systems/Systems - Levels of Biological Organization - Systems & Ecosystems.md",
+    "Unit 1 Living Systems/Unit 1 Review Guide.md",
+    "Unit 1 Living Systems/Characteristics of Life.md",
+    "OCR Inbox/How OCR Inbox works.md",
+    "OCR Inbox/IMG_3390.md",
+    "Unit 1 Living Systems/Habitat VS Niches, Population Density and Patterns.md",
+    "OCR Inbox/IMG_3389.md",
+    "OCR Inbox/IMG_3390.heic",
+    "OCR Inbox/IMG_3331 2.md",
+    "OCR Inbox/IMG_3389.heic",
+    "OCR Inbox/IMG_3351.md",
+    "OCR Inbox/IMG_3336.md",
+    "OCR Inbox/IMG_3331.md",
+    "IMG_3351.md",
+    "OCR Inbox/IMG_3336.heic",
+    "OCR Inbox/IMG_3351.heic",
+    "OCR Inbox/IMG_3331 1.md",
+    "OCR Inbox/IMG_3338.md",
+    "Untitled.canvas",
+    "OCR Inbox/IMG_3338.heic",
+    "Characteristics of Life.md",
+    "OCR Inbox/IMG_3333.jpg",
+    "OCR Inbox/IMG_3331 2.heic",
+    "OCR Inbox/IMG_3331 1.heic",
+    "OCR Inbox/IMG_3330.md",
+    "OCR Inbox/IMG_3331.heic",
+    "Introduction to Living Earth/Systems -> Level of Biological Org.md",
+    "Introduction to Living Earth/Science.pdf",
+    "Introduction to Living Earth/Introduction to Science, What is Life?.md",
+    "Introduction to Living Earth/Systems -> Level of Biological Organization Systems of Ecosystems.md",
+    "OCR Inbox/IMG_3330.heic",
+    "Welcome.md"
+  ]
+}
